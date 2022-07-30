@@ -1,7 +1,7 @@
 import pandas as pd
-import plotly.express as px
+#import plotly.express as px
 import streamlit as st
-import plotly.graph_objects as go
+#import plotly.graph_objects as go
 
 st.title("Dashboard Data Penindakan Lalu Lintas Bulan Januari")
 st.markdown("dashboard ini akan membantu pengguna untuk memahami data dan outputnya")
